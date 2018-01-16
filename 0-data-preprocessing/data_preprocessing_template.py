@@ -1,5 +1,5 @@
 # Data Preprocessing
-# *author: hadelin de ponteves
+# author: Kirill Eremenko & Hadelin de Ponteves
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
