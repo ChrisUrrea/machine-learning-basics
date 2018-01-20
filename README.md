@@ -1,5 +1,5 @@
-# machine-learning-A-Z
+# machine-learning-fundamentals
 
-Personal python work for Hadelin de Ponteves and Kirill Eremenko's machine learning A-Z course with my personal step-by-step notes to building many popular ML models.
+Personal work for many personal projects, notes as well as work of online material of machine learning and data science. Storing for personal use as a book of notes for future reference.
 
-Basic templates for the ML models are superbly authored by Udemy's Hadelin de Ponteves and Kirill Eremenko. Thank you sirs!
+The basic templates for the ML models are superbly authored by Hadelin de Ponteves and Kirill Eremenko. Thank you sirs!
