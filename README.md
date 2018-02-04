@@ -1,0 +1,1 @@
+This is a personal reference book, an aid to my future self. Compilation of my machine learning projects, practice notebooks, notes on many different problems, with many algorithms applied to diverse datasets. 
