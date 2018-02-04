@@ -1,1 +1,1 @@
-This is the read me file
+This is a personal reference book, an aid to my future self. Compilation of my machine learning projects, practice notebooks, notes on many different problems, with many algorithms to applied many different datasets. 
